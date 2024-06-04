@@ -5,7 +5,7 @@ geOSINT is a script that searches for geotagged photos on social media and plots
 
 ![Geosint](https://github.com/marduk-jptr/geosint/blob/main/demo1.png)
 
-# Quick Start
+## Quick Start
 $ git clone https://github.com/coldfusion39/geOSINT.git
 $ cd geOSINT/
 $ sudo pip install -r requirements.txt
@@ -13,7 +13,7 @@ $ cp api_keys.ini.example api_keys.ini
 # add api keys
 $ ./geOSINT.py -a 9231 W 87th Pl -c Arvada -s CO -d 1000
 
-# Requirements
+## Requirements
 Run pip install -r requirements.txt to install the required python modules.
 
 Folium
